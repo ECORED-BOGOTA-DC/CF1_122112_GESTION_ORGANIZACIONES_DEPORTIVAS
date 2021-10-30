@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Elementos conceptuales del proceso administrativo de las organizaciones deportivas'
