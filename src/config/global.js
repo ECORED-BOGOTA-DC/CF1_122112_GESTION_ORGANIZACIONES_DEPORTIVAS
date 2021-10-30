@@ -24,13 +24,15 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Elementos conceptuales del deporte, recreación y actividad física',
+        titulo:
+          'Elementos conceptuales del deporte, recreación y actividad física',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Conceptos y clasificación del deporte, ejercicio físico, recreación y actividad física',
+            titulo:
+              'Conceptos y clasificación del deporte, ejercicio físico, recreación y actividad física',
             hash: 't_1_1',
           },
           {
@@ -51,7 +53,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Concepto y principios de gestión deportiva y proceso administrativo ',
+            titulo:
+              'Concepto y principios de gestión deportiva y proceso administrativo ',
             hash: 't_2_1',
           },
           {
@@ -161,11 +164,11 @@ export default {
     {
       referencia:
         'Slack, T. y Parent, M. (2006). Understanding sport organizations. The application of organization theory. Human Kinetics.',
-    }, 
+    },
     {
       referencia:
         'Universidad de Antioquia. (2010). Actividad física y salud cardiovascular, en búsqueda de la relación dosis-respuesta. Corporación de Investigaciones Biológicas (CIB).',
-    },            
+    },
   ],
   glosario: [
     {
@@ -194,13 +197,15 @@ export default {
       texto:
         'Pérez, R. (2018). La evolución histórica del deporte: desde las olimpiadas griegas a los machacas de gimnasio. Vitónica.',
       tipo: 'Página web',
-      link: 'https://www.vitonica.com/vitonica/la-evolucion-historica-del-deporte-desde-las-olimpiadas-griegas-a-los-machacas-de-gimnasio-de-la-actualidad',
+      link:
+        'https://www.vitonica.com/vitonica/la-evolucion-historica-del-deporte-desde-las-olimpiadas-griegas-a-los-machacas-de-gimnasio-de-la-actualidad',
     },
     {
       texto:
         'Euroinnova Business School. (2021). Conoce cuáles son los pilares de la administración deportiva. Euroinnova.',
       tipo: 'Página web',
-      link: 'https://www.euroinnova.co/cuales-son-los-pilares-de-la-administracion-deportiva',
+      link:
+        'https://www.euroinnova.co/cuales-son-los-pilares-de-la-administracion-deportiva',
     },
   ],
   creditos: {
