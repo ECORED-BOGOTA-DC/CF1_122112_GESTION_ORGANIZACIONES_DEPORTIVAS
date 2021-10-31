@@ -44,34 +44,34 @@
       .py-4.py-md-5(titulo="Reglamentación" :icono="require('@/assets/curso/t1-ico1.svg')")
         .row
           .col-md-5
-            figure
+            figure.slideInRight
               img(src='@/assets/curso/t1-i2.png', alt='imagen decorativa')        
           .col-md-7.mb-4.mb-md-0
             h4 Reglamentación
             p Son los principios que dan fundamento a una determinada disciplina, los cuales deben ser conocidos por sus practicantes, con el fin de llevar una ejecución clara y ordenada.
 
-      .py-4.py-md-5(titulo="Competitividad" :icono="require('@/assets/curso/t1-ico1.svg')")
+      .py-4.py-md-5(titulo="Competitividad" :icono="require('@/assets/curso/t1-ico2.svg')")
         .row
           .col-md-5
-            figure
+            figure.slideInRight
               img(src='@/assets/curso/t1-i3.png', alt='imagen decorativa')        
           .col-md-7.mb-4.mb-md-0
             h4 Competitividad
             p Son los principios que dan fundamento a una determinada disciplina, los cuales deben ser conocidos por sus practicantes, con el fin de llevar una ejecución clara y ordenada.
 
-      .py-4.py-md-5(titulo="Transmisión de valores" :icono="require('@/assets/curso/t1-ico1.svg')")
+      .py-4.py-md-5(titulo="Transmisión de valores" :icono="require('@/assets/curso/t1-ico3.svg')")
         .row
           .col-md-5
-            figure
+            figure.slideInRight
               img(src='@/assets/curso/t1-i4.png', alt='imagen decorativa')        
           .col-md-7.mb-4.mb-md-0
             h4 Transmisión de valores
             p Por medio de la práctica se transmiten e interiorizan valores como el respeto, la honestidad, el esfuerzo y la tolerancia a la frustración, entre otros.
   
-      .py-4.py-md-5(titulo="Fomento de los vínculos sociales" :icono="require('@/assets/curso/t1-ico1.svg')")
+      .py-4.py-md-5(titulo="Fomento de los vínculos sociales" :icono="require('@/assets/curso/t1-ico4.svg')")
         .row
           .col-md-5
-            figure
+            figure.slideInRight
               img(src='@/assets/curso/t1-i5.png', alt='imagen decorativa')        
           .col-md-7.mb-4.mb-md-0
             h4 Fomento de los vínculos sociales
@@ -80,21 +80,62 @@
     
     p.mb-5  Así como en las características, las cuales tienen clasificación de carácter profesional y lúdico, en la orientación del deporte también se presenta una clasificación por escenarios, a saber: 
 
-    //-- Aqui viene los nav-holder
+    .row.mb-5.justify-content-center
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-c1.png", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Práctica profesional
+              p.small Busca grandes resultados deportivos, cuenta con grandes exigencias competitivas, por lo que se presenta mayor presión y demanda sobre el practicante.
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-c2.png", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Práctica lúdica
+              p.small Tiene mayor relación con el ocio, esparcimiento, descanso, equilibrio mental y físico, sin ejercer gran presión o demanda sobre el practicante.
 
 
-
-
-
-    p.mb-5
+    p.mb-5  Dentro de estos dos escenarios las orientaciones se subdividen en diversas concepciones que aluden a la forma explícita del ámbito o campo al que hace referencia:
 
     TabsA.color-acento-contenido.mb-5
-      .tarjeta.color-acento-contenido.p-4(titulo="Organización deportiva")
+      .tarjeta.color-acento-contenido.p-4(titulo="Deporte escolar")
         .row
-          .col-lg-8
-            h4 Organización deportiva
-            p Slack & Parent (2006) definen la organización deportiva como una entidad social, con objetivos claros y límites bien definidos envuelta en la industria del deporte, según lo cual se debe entender la organización deportiva como una industria en donde hay unos objetivos y metas claras que se deben alcanzar mediante diferentes procesos administrativos.
           .col-lg-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-i6.png', alt='imagen decorativa')  
+          .col-lg-8
+            h4 Deporte escolar
+            p También conocido como las clases de educación física que se llevan a cabo, bien sea dentro o fuera de los centros de formación escolar y que han sido planificadas y programadas en las horas de la clase.
+
+      .tarjeta.color-acento-contenido.p-4(titulo="Deporte educativo formativo")
+        .row
+          .col-lg-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-i7.png', alt='imagen decorativa')  
+          .col-lg-8
+            h4 Deporte educativo formativo
+            p.mb-3  Se basa en un planteamiento estrictamente educativo, ya que fomenta el desarrollo y la mejora de las diferentes capacidades cognitivas, afectivas, sociales, motrices y psicomotoras del practicante.
+            p.mb-0  Siguiendo a Blázquez (1999) en este tipo de deporte lo que importa es la persona que realiza la actividad deportiva, es decir, el deportista. De esta manera, el deporte educativo ha de fomentar el desarrollo y la mejora de las distintas capacidades cognitivas, afectivas, sociales, motrices y psicomotrices de la persona que lo realiza. En este sentido y conforme con Giménez (2002) se piensa que el deporte que se proponga a niños/as y a jóvenes debe basarse en un planteamiento estrictamente educativo.
+            
+      .tarjeta.color-acento-contenido.p-4(titulo="Deporte de iniciación o iniciación deportiva")
+        .row
+          .col-lg-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-i7.png', alt='imagen decorativa')  
+          .col-lg-8
+            h4 Deporte de iniciación o iniciación deportiva
+            p Se da cuando el practicante es capaz de tener una operatividad básica, sobre el conjunto global de la actividad deportiva, en la situación real de competición o juego, es decir, comienza a aprender de forma específica una práctica deportiva concreta, debiéndose entender esta como un período que favorece y facilita una especialización.
+            
+      .tarjeta.color-acento-contenido.p-4(titulo="Deporte de iniciación o iniciación deportiva")
+        .row
+          .col-lg-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t1-i7.png', alt='imagen decorativa')  
+          .col-lg-8
+            h4 Deporte adaptado
+            p Se trata de todas aquellas actividades deportivas en las que es necesario reestructurar, acomodar y ajustar las condiciones de práctica, es decir, las normas y reglas, los móviles o aparatos, la técnica o formas de ejecución, el espacio y el tiempo de juego, etc., para que puedan ser practicadas por las personas que presentan alguna discapacidad física, psíquica o psicofísica.
 
 
 
@@ -107,33 +148,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
-  
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
