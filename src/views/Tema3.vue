@@ -17,7 +17,7 @@
             p.mb-0 Para el desarrollo de cualquier organización es necesario conocer la legislación y la normativa que lo rige y el sector del deporte no es ajeno a ello. Según lo anterior, se hace necesario abordar temas de conceptualización referentes a la normativa en deporte, el marco legal para el deporte, la actividad física y la recreación a nivel internacional, nacional y local, la estructura nacional del deporte y la conformación de organizaciones deportivas.
 
     h3.titulo-tercero
-      i.fas.fa-check
+      i.fas.fa-angle-right
       | &nbsp;Elementos conceptuales referentes a la normativa deportiva  
     p.mb-5  Reconocer conceptualmente los términos relacionados con la legislación deportiva es indispensable para poder diferenciar y entender su abordaje dentro de las organizaciones deportivas, como son:
     .row.mb-5.justify-content-center
