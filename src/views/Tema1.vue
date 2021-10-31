@@ -27,12 +27,9 @@
         p.mb-3  A continuación, se presentan algunas de las principales diferencias conceptuales existentes en estos cuatro conceptos:
     
     //-- Aqui viene el componente de bloques
-
-
-
-
-
-
+    .neg-margin-x.bg-curved
+      .wrap-compo
+        Botones(data-aos="fade-down")
 
     Separador
     br
@@ -151,9 +148,12 @@
 </template>
 
 <script>
+import Botones from '../components/Botones.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: {
+    Botones,
+  },
   data: () => ({
     // variables de vue
   }),
