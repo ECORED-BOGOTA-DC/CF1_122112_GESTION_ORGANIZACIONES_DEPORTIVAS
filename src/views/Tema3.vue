@@ -255,7 +255,7 @@
           .row(titulo="Decreto 1228 de 1995")
             .col-md-12.mb-4.mb-md-0
               p Por el cual se revisa la legislación deportiva vigente y la estructura de los organismos del sector asociado con objeto de adecuarlas al contenido de la Ley 181 de 1995.
-              a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3aZPO5w" target="_blank")
+              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3aZPO5w" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -264,7 +264,7 @@
           .row(titulo="Resolución 1150 de 2019")
             .col-md-12.mb-4.mb-md-0
               p Por la cual se adoptan los requisitos para pertenecer al órgano de administración, comisión técnica y de juzgamiento de los organismos deportivos que integran el Sistema Nacional del Deporte.
-              a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3m7XclW" target="_blank")
+              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3m7XclW" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -273,7 +273,7 @@
           .row(titulo="Resolución 824 de 2019")
             .col-md-12.mb-4.mb-md-0
               p Por la cual se establece el procedimiento para otorgar, actualizar, renovar y revocar el reconocimiento deportivo de los clubes deportivos que integran el Sistema Nacional del Deporte en el Distrito Capital.
-              a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3njcvHC" target="_blank")
+              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3njcvHC" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
