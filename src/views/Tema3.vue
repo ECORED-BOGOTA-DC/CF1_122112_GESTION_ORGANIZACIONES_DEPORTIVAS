@@ -69,7 +69,7 @@
         figure(data-aos='slide-right')
           img(src='@/assets/curso/t3-i4.jpg' alt='imagen decorativa')
       .col-lg-9  
-        TabsC.color-primario
+        TabsC.color-acento-botones
           .py-3.py-md-4(titulo="Internacional")
             .row
               .col-md-12.mb-4.mb-md-0
@@ -77,7 +77,7 @@
                   li
                     i.fas.fa-check
                     p <b>Carta internacional de la Educación Física, la actividad física y el deporte (UNESCO, 2018).</b> Es el instrumento que garantiza el derecho de acceder al deporte y a la educación física y, contiene diversos principios rectores para la creación y desarrollo de programas deportivos.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3puOtfl" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3puOtfl" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -85,7 +85,7 @@
                   li
                     i.fas.fa-check
                     p <b>Plan mundial de acción sobre actividad física 2018-2030 Más personas activas para un mundo sano (Organización Panamericana de la Salud, 2019).</b> Se trata de una herramienta que brinda a los países posibles vías para reducir la inactividad física en adultos y adolescentes en un 15% para el año 2030.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3GdVmrt" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3GdVmrt" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -93,7 +93,7 @@
                   li
                     i.fas.fa-check
                     p <b>Recomendaciones mundiales sobre actividad física para la salud (Organización Mundial de la Salud (2020).</b> Recomendaciones generadas con el objetivo general de proporcionar a los formuladores de políticas a nivel nacional y regional orientación sobre la relación dosis-respuesta entre frecuencia, duración, intensidad, tipo y cantidad total de actividad física y prevención de las enfermedades no transmisibles.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3BaP6gq" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3BaP6gq" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -102,7 +102,7 @@
                   li
                     i.fas.fa-check
                     p <b>Código Mundial Antidopaje (Agencia Mundial Antidopaje 2021).</b> Es el documento fundamental y universal en el que se basa el Programa mundial antidopaje en el deporte. El objeto del código es promover la lucha contra el dopaje, mediante la armonización universal de los principales elementos relacionados con la lucha antidopaje.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3BaP6gq" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3BaP6gq" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -115,7 +115,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ley 181 de 1995.</b> Por la cual se dictan disposiciones para el fomento del deporte, la recreación, el aprovechamiento del tiempo libre y la educación física y se crea el sistema nacional del deporte.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3jr9tjo" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3jr9tjo" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -123,7 +123,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ley 1967 de 2019.</b> Por la cual se transforma el departamento administrativo del deporte, la recreación, la actividad física y el aprovechamiento del tiempo libre (Coldeportes) en el Ministerio del Deporte.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3b4yaxq" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3b4yaxq" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -131,7 +131,7 @@
                   li
                     i.fas.fa-check
                     p <b>Decreto 1085 de 2015.</b> Por medio del cual se expide el decreto único reglamentario del sector administrativo del deporte.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3b5DFMx" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3b5DFMx" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -139,7 +139,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ley 934 de 2004.</b> Política de desarrollo nacional de la educación física y se dictan otras disposiciones.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3njk6px" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3njk6px" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -147,7 +147,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ley 1811 de 2016.</b>  Por la cual se otorgan incentivos para promover el uso de la bicicleta en el territorio nacional y se modifica el código nacional de tránsito.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3Edn9qp" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3Edn9qp" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -155,7 +155,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ley 1355 de 2009.</b>  Por medio de la cual se define la obesidad y las enfermedades crónicas no transmisibles asociadas a esta como una prioridad de salud pública y se adoptan medidas para su control, atención y prevención.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/2Zh3JRW" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/2Zh3JRW" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -170,7 +170,7 @@
                   li
                     i.fas.fa-check
                     p <b>Acuerdo 4 de 1978.</b>  Por el cual se crea El Instituto Distrital para la Recreación y el Deporte.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3jtyR8e" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3jtyR8e" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -178,7 +178,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ordenanza 8E de 1996.</b>  Por medio del cual se crea el Instituto Departamental del Deporte.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3B7Dzyg" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3B7Dzyg" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
@@ -186,7 +186,7 @@
                   li
                     i.fas.fa-check
                     p <b>Ordenanza 22 de 1997.</b>  Por la cual se crea el Instituto del Deporte, la Educación Física y la Recreación del Valle del Cauca Indervalle.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3(href="https://bit.ly/3B7Dzyg" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3B7Dzyg" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto

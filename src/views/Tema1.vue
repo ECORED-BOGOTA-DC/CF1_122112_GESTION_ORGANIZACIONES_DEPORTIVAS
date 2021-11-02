@@ -37,7 +37,7 @@
     #t_1_2.titulo-segundo.color-secundario
       h2 1.2  Características y orientación del deporte
     p.mb-5  La práctica deportiva presenta múltiples características que son clasificadas desde la práctica de carácter profesional, hasta la de carácter lúdico. Entre estas se tiene:
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-botones.mb-5
       .py-4.py-md-5(titulo="Reglamentación" :icono="require('@/assets/curso/t1-ico1.svg')")
         .row
           .col-md-5
@@ -120,7 +120,7 @@
         .row
           .col-lg-4
             figure.slideInLeft
-              img(src='@/assets/curso/t1-i7.png', alt='imagen decorativa')  
+              img(src='@/assets/curso/t1-i8.png', alt='imagen decorativa')  
           .col-lg-8
             h4 Deporte de iniciación o iniciación deportiva
             p Se da cuando el practicante es capaz de tener una operatividad básica, sobre el conjunto global de la actividad deportiva, en la situación real de competición o juego, es decir, comienza a aprender de forma específica una práctica deportiva concreta, debiéndose entender esta como un período que favorece y facilita una especialización.
@@ -129,7 +129,7 @@
         .row
           .col-lg-4
             figure.slideInLeft
-              img(src='@/assets/curso/t1-i7.png', alt='imagen decorativa')  
+              img(src='@/assets/curso/t1-i9.png', alt='imagen decorativa')  
           .col-lg-8
             h4 Deporte adaptado
             p Se trata de todas aquellas actividades deportivas en las que es necesario reestructurar, acomodar y ajustar las condiciones de práctica, es decir, las normas y reglas, los móviles o aparatos, la técnica o formas de ejecución, el espacio y el tiempo de juego, etc., para que puedan ser practicadas por las personas que presentan alguna discapacidad física, psíquica o psicofísica.
