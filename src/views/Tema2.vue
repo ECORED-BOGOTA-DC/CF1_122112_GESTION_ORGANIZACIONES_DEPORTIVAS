@@ -33,6 +33,8 @@
         p  Abordar los conceptos generales sobre gestión, administración, organización deportiva y proceso administrativo aplicado al deporte permite identificar la interacción de condiciones que van no solo desde lo deportivo, sino también desde lo económico, contable y legal, véalo a continuación:
     .row.mb-5.justify-content-center
       .col-lg-8
+        figcaption.customCaption.mb-3 <b>Figura 1</b> <br>
+          span.text-normal  Concepto y principios de gestión deportiva y proceso administrativo
         figure(data-aos='flip-up')
           img(src='@/assets/curso/t2-i2.png' alt='imagen decorativa')
 
@@ -76,7 +78,8 @@
               img(src='@/assets/curso/t2-i6.png' alt='imagen decorativa')
     p.mb-5  La siguiente tabla permite identificar de forma clara las etapas, definiciones y aspectos claves que se deben tener presentes para establecer un correcto proceso administrativo.
 
-
+    figcaption.customCaption.mb-3 <b>Tabla 1</b> <br>
+      span.text-normal  Proceso administrativo
     .tabla-b.color-acento-botones.mb-5   
       .tabla-b__header
         h5.mb-0 Proceso administrativo
@@ -172,6 +175,8 @@
 
     .row.mb-5.justify-content-center
       .col-lg-8
+        figcaption.customCaption.mb-3 <b>Figura 2</b> <br>
+          span.text-normal  Ciclo PHVA
         ImagenInfografica.color-acento-contenido.mb-5
           template(v-slot:imagen)
             figure
