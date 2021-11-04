@@ -186,11 +186,11 @@
                   li
                     i.fas.fa-check
                     p <b>Ordenanza 22 de 1997.</b>  Por la cual se crea el Instituto del Deporte, la Educación Física y la Recreación del Valle del Cauca Indervalle.<br>
-                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3B7Dzyg" target="_blank")
+                      a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3qb4lUL" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
                         .anexo__texto
-                          p https://bit.ly/3CcgGv6
+                          p https://bit.ly/3qb4lUL
 
 
     .row.mb-5.justify-content-center
@@ -221,8 +221,10 @@
     p.mb-5  En la siguiente figura se muestran los organismos que componen el Sistema Nacional del Deporte, que se encuentra vigente para el año 2021.
     .row.mb-5.justify-content-center
       .col-lg-10
-        figcaption.customCaption.mb-3 <b>Figura</b> Organismos del Sistema Nacional del Deporte
-        h4.titulo-quinto.color-acento-contenido  Organismos del Sistema Nacional del Deporte
+        figcaption.customCaption.mb-3 <b>Figura</b><br> 
+          span.text-normal  Organismos del Sistema Nacional del Deporte
+        .titulo-quinto.color-acento-botones
+          h4 Organismos del Sistema Nacional del Deporte
         figure(data-aos='flip-right')
           img(src='@/assets/curso/t3-i6.svg' alt='Organigrama Sistema Nacional del Deporte')
 

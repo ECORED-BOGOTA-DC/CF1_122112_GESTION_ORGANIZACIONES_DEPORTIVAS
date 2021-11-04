@@ -9,7 +9,7 @@
       h1 Administración deportiva
     .row.mb-5.slideInUp
       .col-lg-7
-        p.mb-text-bold-text-blue  El deporte aparte de ser una disciplina es también un sector, que año tras año cobra mayor importancia por su alta demanda e impacto en la salud, bienestar, educación y aportes en el desarrollo social y económico.
+        p.mb-3.text-bold.text-blue  El deporte aparte de ser una disciplina es también un sector, que año tras año cobra mayor importancia por su alta demanda e impacto en la salud, bienestar, educación y aportes en el desarrollo social y económico.
         p.mb-3  Al incremento creciente de la demanda de programas deportivos le surge la necesidad de múltiples proyectos y organizaciones que den respuesta a una oferta presentada por medio de servicios, programas de fomento y promoción de la actividad física, deporte y recreación.
         p.mb-3  Para que estas organizaciones sean exitosas, alcancen sus metas y puedan satisfacer las necesidades de sus clientes es indispensable contar con una administración eficiente.
         p.mb-3  Históricamente se han establecido mecanismos para administrar y gobernar en los diferentes ámbitos en los que el ser humano ha estado presente, pero solo hasta el Siglo XX nace la administración como ciencia, en donde surgen diferentes conceptos y teorías.
@@ -161,7 +161,7 @@
             td Desarrollo de la autoevaluación del proceso y/o heteroevaluación realizada por un agente externo a la organización.
             td  Evaluación del proceso involucrando a cada una de las partes interesadas: dirección, colaboradores, clientes – usuarios.
             td  Es el cierre de un proceso donde se establecen propuestas de mejora para el inicio de un nuevo proceso.
-            
+      figcaption  Tomado de Gutiérrez (2003).        
     .row.mb-5
       .col-lg-7(data-aos='slide-up')
         p.mb-3  En la actualidad, las empresas cada vez son más competitivas y las organizaciones deportivas no son la excepción. Los clientes exigen servicios más especializados y de alta calidad, por lo que las organizaciones deberán trabajar para mejorar constantemente sus procesos.

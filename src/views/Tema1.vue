@@ -54,7 +54,7 @@
               img(src='@/assets/curso/t1-i3.png', alt='imagen decorativa')        
           .col-md-7.mb-4.mb-md-0
             h4 Competitividad
-            p Son los principios que dan fundamento a una determinada disciplina, los cuales deben ser conocidos por sus practicantes, con el fin de llevar una ejecución clara y ordenada.
+            p independientemente de la modalidad, individual o grupal, esta característica diferencia al juego de la lúdica por medio de la competencia, que tiene como finalidad, la mayoría de las veces, en premiar al mejor participante después de un enfrentamiento.
 
       .py-4.py-md-5(titulo="Transmisión de valores" :icono="require('@/assets/curso/t1-ico3.svg')")
         .row
