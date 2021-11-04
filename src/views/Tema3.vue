@@ -221,7 +221,7 @@
     p.mb-5  En la siguiente figura se muestran los organismos que componen el Sistema Nacional del Deporte, que se encuentra vigente para el año 2021.
     .row.mb-5.justify-content-center
       .col-lg-10
-        figcaption.customCaption.mb-3 <b>Figura 1</b><br> 
+        figcaption.customCaption.mb-3 <b>Figura 3</b><br> 
           span.text-normal  Organismos del Sistema Nacional del Deporte
         .titulo-quinto.color-acento-botones
           h4 Organismos del Sistema Nacional del Deporte
