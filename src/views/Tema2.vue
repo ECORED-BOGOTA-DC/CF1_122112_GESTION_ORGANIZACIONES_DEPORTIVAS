@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.bg-foot
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -205,12 +205,23 @@
           img(src='@/assets/curso/t2-i9.png' alt='imagen decorativa')
 
     p.mb-5  El rol del gestor deportivo es orientar a la organización en el cumplimiento de sus objetivos y metas. Para tal fin, deberá velar por el óptimo funcionamiento de cada uno de los procesos organizacionales, como lo son:
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.mb-5.justify-content-center
+      .col-lg-8(data-aos='flip-left')
+        ImagenInfografica.color-acento-contenido.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t2-info2.svg', alt='imagen decorativa')
 
-
-
+          .tarjeta.color-acento-contenido.p-3.shadow-box(x="11.5%" y="38.5%")
+            p Contratación, selección, reclutamiento, plan de capacitación, manual de funciones, sistemas de gestión.
+          .tarjeta.color-acento-contenido.p-3.shadow-box(x="50%" y="10%")
+            p El gestor construye el presupuesto, los costos por actividad: servicio, gastos, ingresos, egresos, adquisición y destinación de recursos. Este proceso se enfoca en buscar la rentabilidad del proyecto, organización deportiva.
+          .tarjeta.color-acento-contenido.p-3.shadow-box(x="89.5%" y="38.5%")
+            p Gestión de espacios, horarios, programaciones.
+          .tarjeta.color-acento-contenido.p-3.shadow-box(x="82.5%" y="96%")
+            p Gestión de temas relacionados con el centro del negocio, como la oferta de servicios deportivos, organización eficiente de servicios.
+          .tarjeta.color-acento-contenido.p-3.shadow-box(x="17.5%" y="96%")
+            p Promoción de los servicios, portafolio de servicios, plan de mercado, estudio de mercado.
 
 
 
